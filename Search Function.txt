@@ -1,0 +1,43 @@
+</div> 
+                <div class = "banner">
+                    <div class = "container">
+                        <h1 class = "banner-title">
+                            <span>Explore</span> your dream House
+                        </h1>
+                        <p class = "banner-text">Find great palces to stay, eat, shop, or visit from local experts</p>
+
+                        <form class = "banner-form">
+                            <div class = "form-element">
+                                <input type = "text" class = "form-control" placeholder="Ex:Home, service...">
+                            </div>
+                            <div class = "form-element">
+                                <select name = "places" class = "form-control">
+                                    <option value = "Vientaine">Information</option>
+                                    <option value = "Vientaine">Information</option>
+                                    <option value = "Vientaine">Information</option>
+                                    <option value = "Vientaine">Information</option>
+                                    <option value = "Vientaine">Information</option>
+                                </select>
+                            </div>
+                            <div class = "form-element">
+                                <input type = "submit" class = "banner-btn" value = "Search">
+                            </div>
+                        </form>
+                        <p class = "banner-text">Type of Home</p>
+                        <div class = "banner-btns">
+                            <button type = "button" class = "banner-btn">
+                                <span><i class = "fas fa-utensils"></i></span> Townhouse
+                            </button>
+                            <button type = "button" class = "banner-btn">
+                                <span><i class = "fas fa-hotel"></i></span> Carriage House
+                            </button>
+                            <button type = "button" class = "banner-btn">
+                                <span><i class = "fas fa-map-marker-alt"></i></span> Cottage-Style
+                            </button>
+                            <button type = "button" class = "banner-btn">
+                                <span><i class = "fas fa-shopping-cart"></i></span> Farmhouse
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
